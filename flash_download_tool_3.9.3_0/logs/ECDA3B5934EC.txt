@@ -1,0 +1,548 @@
+*************************** START ****************************
+START TIME: 202406121025
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14958 compressed) at 0x00000000 in 0.3 seconds (effective 564.4 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3070.9 kbit/s)...
+Hash of data verified.Wrote 1974976 bytes (1219235 compressed) at 0x00010000 in 28.3 seconds (effective 558.1 kbit/s)...
+Hash of data verified.Wrote 2736136 bytes (788972 compressed) at 0x00910000 in 24.7 seconds (effective 887.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 63 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202406141531
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14960 compressed) at 0x00000000 in 0.3 seconds (effective 564.8 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3511.1 kbit/s)...
+Hash of data verified.Wrote 1980112 bytes (1221646 compressed) at 0x00010000 in 28.4 seconds (effective 557.0 kbit/s)...
+Hash of data verified.Wrote 2736136 bytes (788972 compressed) at 0x00910000 in 24.7 seconds (effective 885.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 63 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202406141539
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14960 compressed) at 0x00000000 in 0.3 seconds (effective 566.2 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4088.2 kbit/s)...
+Hash of data verified.Wrote 1980112 bytes (1221646 compressed) at 0x00010000 in 28.4 seconds (effective 558.7 kbit/s)...
+Hash of data verified.Wrote 2736136 bytes (788972 compressed) at 0x00910000 in 24.6 seconds (effective 888.1 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 63 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202406141600
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14960 compressed) at 0x00000000 in 0.3 seconds (effective 564.9 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4095.6 kbit/s)...
+Hash of data verified.Wrote 1980112 bytes (1221646 compressed) at 0x00010000 in 28.4 seconds (effective 557.0 kbit/s)...
+Hash of data verified.Wrote 2736136 bytes (788972 compressed) at 0x00910000 in 24.6 seconds (effective 889.0 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 63 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202406141608
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14960 compressed) at 0x00000000 in 0.3 seconds (effective 566.6 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3776.1 kbit/s)...
+Hash of data verified.Wrote 1980112 bytes (1221646 compressed) at 0x00010000 in 28.4 seconds (effective 558.0 kbit/s)...
+Hash of data verified.Wrote 2736136 bytes (788972 compressed) at 0x00910000 in 24.7 seconds (effective 887.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 62 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407121450
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 565.0 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3074.4 kbit/s)...
+Hash of data verified.Wrote 1770336 bytes (1100942 compressed) at 0x00010000 in 26.6 seconds (effective 531.7 kbit/s)...
+Hash of data verified.Wrote 4861956 bytes (1199521 compressed) at 0x00910000 in 39.8 seconds (effective 978.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 79 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407151105
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 564.6 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4091.7 kbit/s)...
+Hash of data verified.Wrote 1994992 bytes (1227212 compressed) at 0x00010000 in 29.1 seconds (effective 548.5 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 24.9 seconds (effective 880.9 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407151718
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 565.0 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4096.0 kbit/s)...
+Hash of data verified.Wrote 1994992 bytes (1227285 compressed) at 0x00010000 in 29.1 seconds (effective 548.7 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.0 seconds (effective 877.8 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407151730
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 564.5 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3382.6 kbit/s)...
+Hash of data verified.Wrote 1994992 bytes (1227285 compressed) at 0x00010000 in 29.1 seconds (effective 548.7 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 24.9 seconds (effective 880.0 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407151755
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 565.4 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3439.8 kbit/s)...
+Hash of data verified.Wrote 1994992 bytes (1227285 compressed) at 0x00010000 in 29.1 seconds (effective 548.1 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.0 seconds (effective 876.5 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407151843
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 563.4 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3510.6 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227264 compressed) at 0x00010000 in 29.1 seconds (effective 548.0 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.0 seconds (effective 876.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407152055
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 562.8 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3428.9 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227264 compressed) at 0x00010000 in 29.0 seconds (effective 550.0 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.0 seconds (effective 878.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407152058
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 563.2 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4096.9 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227264 compressed) at 0x00010000 in 28.4 seconds (effective 562.5 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.0 seconds (effective 877.1 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 63 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407161417
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 566.2 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3509.7 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227298 compressed) at 0x00010000 in 29.1 seconds (effective 549.1 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.1 seconds (effective 872.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407161446
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+com closed
+Use time: 17 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407161447
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 565.0 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4097.8 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227298 compressed) at 0x00010000 in 28.0 seconds (effective 569.2 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 23.0 seconds (effective 951.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 61 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407171904
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 565.1 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3711.1 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227298 compressed) at 0x00010000 in 29.1 seconds (effective 549.3 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.1 seconds (effective 874.8 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407181700
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 565.5 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3460.9 kbit/s)...
+Hash of data verified.Wrote 1995024 bytes (1227298 compressed) at 0x00010000 in 28.9 seconds (effective 552.5 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 25.5 seconds (effective 860.1 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 64 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407251013
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+com closed
+Use time: 13 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202407251013
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x3b5934ec
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 566.1 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3984.0 kbit/s)...
+Hash of data verified.Wrote 1992512 bytes (1225805 compressed) at 0x00010000 in 28.0 seconds (effective 569.0 kbit/s)...
+Hash of data verified.Wrote 2740232 bytes (789229 compressed) at 0x00910000 in 23.0 seconds (effective 953.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 60 s
+Download result: PASS
+*************************** END ****************************
+

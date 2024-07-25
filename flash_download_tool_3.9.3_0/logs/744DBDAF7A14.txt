@@ -1,0 +1,45 @@
+*************************** START ****************************
+START TIME: 202407181804
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xbdaf7a14
+mac h: 0x744d
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 566.9 kbit/s)...
+File  md5: ed512ee39dd80f07d13b355e3aed2df5Flash md5: d810726e8e56134fe80ffdf50ebdb32fMD5 of 0xFF is d810726e8e56134fe80ffdf50ebdb32f*************************** START ****************************
+START TIME: 202407181804
+CONNECT BAUD: 115200
+serial port open error
+COM:COM6
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202407181804
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0xbdaf7a14
+mac h: 0x744d
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+Wrote 23728 bytes (14961 compressed) at 0x00000000 in 0.3 seconds (effective 568.9 kbit/s)...
+File  md5: ed512ee39dd80f07d13b355e3aed2df5Flash md5: d810726e8e56134fe80ffdf50ebdb32fMD5 of 0xFF is d810726e8e56134fe80ffdf50ebdb32f
